@@ -48,9 +48,10 @@
 
 <span>
   <a href="https://linkedin.com/in/mfebriann" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="mailto:muhammadfebriyan86@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-EA4335?logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.instagram.com/mfebrian22/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/mfebriann" title="Github"><img src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white" alt="Github"></a>
+  <a href="mailto:mfebriann18@gmail.com" title="Email"><img src="https://img.shields.io/badge/-Email-EA4335?logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/mfebrian22" title="Facebook"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://t.me/riann18" title="Telegram"><img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://discord.com/users/460794998045016066" title="Discord"><img src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white" alt="Discord"></a>
 </span>
 
 ---

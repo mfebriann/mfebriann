@@ -33,11 +33,11 @@
 <h3> 📝 Latest Projects </h3>
 
 <ul>
+ <li><a href="https://linktri-ten.vercel.app/">Linktri</a></li>
  <li><a href="https://mfebriann.github.io/pokemon-pokedek/">Pokemon Pokedek?</a></li>
  <li><a href="https://mfebriann.github.io/random-anime-quote/">Random Anime Quote</a></li>
  <li><a href="https://mfebriann.github.io/CariMobil/">Cari Mobil</a></li>
  <li><a href="https://beli-hamburger.netlify.app/">Beli Hamburger</a></li>
- <li><a href="https://kopai.vercel.app/">Kopai</a></li>
 </ul>
 
 <h3> 📈 Github Stats </h3>

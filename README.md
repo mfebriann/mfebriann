@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there, i'm Rian 👋 </h3>
 
-<h2 align="center"> I'm a Frontend Developer 🧑‍💻 and Desginer 🎨 from Indonesia <img src="https://i.postimg.cc/Xv5KCxn9/indonesia.png" width="16">  </h2>
+<h2 align="center"> I'm a Frontend Developer 🧑‍💻 and Designer Website 🎨 from Indonesia <img src="https://i.postimg.cc/Xv5KCxn9/indonesia.png" width="16">  </h2>
 
 <h3> 👜 Technical Skills </h3>
 

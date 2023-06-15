@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/-Javascript-EBD72A?logo=javascript&logoColor=white" alt="Javascript">
+  <img src="https://img.shields.io/badge/-PHP-787CB4?logo=php&logoColor=white" alt="PHP">
 </span>
 
 <h4> Tools </h4>

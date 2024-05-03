@@ -7,7 +7,7 @@
 <h4> Code </h4>
 
 <span>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-ReactJS-50D6FF?logo=react&logoColor=white" alt="ReactJS">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind css&logoColor=white" alt="TailwindCSS">

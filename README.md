@@ -13,16 +13,19 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/-Bootstrap-6E2CF2?logo=bootstrap&logoColor=white" alt="bootstrap">
   <img src="https://img.shields.io/badge/-PHP-787CB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="Typescript">
 </span>
 
 <h4> Tools </h4>
 
 <span>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" alt="VSCode">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-Prettier-F7B93E?logo=Prettier&logoColor=white" alt="Prettier">
   <img src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white" alt="Github">
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white" alt="Netlify">
   <img src="https://img.shields.io/badge/-Vercel-black?logo=Vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
 </span>
 
 <h4> Designs </h4>
